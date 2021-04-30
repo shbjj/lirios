@@ -1,3 +1,4 @@
 C:\Users\Lizbeth Gisselle\Documents\GitHub\lirios\Lirios\bin\Debug\Lirios.exe.config
 C:\Users\Lizbeth Gisselle\Documents\GitHub\lirios\Lirios\obj\Debug\Lirios.exe
 C:\Users\Lizbeth Gisselle\Documents\GitHub\lirios\Lirios\obj\Debug\Lirios.pdb
+C:\Users\AldrichAAV\Documents\GitHub\lirios\Lirios\bin\Debug\Lirios.exe.config
